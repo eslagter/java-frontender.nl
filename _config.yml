@@ -1,0 +1,11 @@
+# Site settings
+title: Erik Slagter
+email: erik@java-frontender.nl
+description: >
+  Erik Slagter IT - Interim Java ontwikkelaar met focus op frontend integratie.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://java-frontender.nl"
+github_username:  eslagter
+
+# Build settings
+markdown: kramdown
